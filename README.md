@@ -8,5 +8,4 @@ O NPM (Node Package Manager) é um gerenciador de dependências javaScript que p
 Foi solicitado no projeto a utilização de Styled Components que consiste na biblioteca que permite escrever o código CSS dentro do JavaScript usando Tagged templates Literals. 
 
 # Estrutura do Projeto:
-O component denominado navbar encontra-se dentro da pasta components;
-Existem três seções denominadas de: about, home e tables que estão dentro do diretório chamado pages;
+O component foi denominado navbar;
